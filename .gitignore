@@ -6,3 +6,4 @@
 /Server/MyBlog.Service/bin
 /Server/MyBlog.Service/obj
 /Client/node_modules
+/.vs
