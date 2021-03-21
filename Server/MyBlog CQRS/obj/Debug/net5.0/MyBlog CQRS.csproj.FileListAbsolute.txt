@@ -1,0 +1,130 @@
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\bin\Debug\net5.0\appsettings.Development.json
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\bin\Debug\net5.0\appsettings.json
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\bin\Debug\net5.0\MyBlog CQRS.exe
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\bin\Debug\net5.0\MyBlog CQRS.deps.json
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\bin\Debug\net5.0\MyBlog CQRS.runtimeconfig.json
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\bin\Debug\net5.0\MyBlog CQRS.runtimeconfig.dev.json
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\bin\Debug\net5.0\MyBlog CQRS.dll
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\bin\Debug\net5.0\ref\MyBlog CQRS.dll
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\bin\Debug\net5.0\MyBlog CQRS.pdb
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\bin\Debug\net5.0\MediatR.dll
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\bin\Debug\net5.0\MyBlog.Data.dll
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\bin\Debug\net5.0\MyBlog.MediatR.dll
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\bin\Debug\net5.0\MyBlog.MediatR.pdb
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\bin\Debug\net5.0\MyBlog.Data.pdb
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\obj\Debug\net5.0\MyBlog CQRS.csprojAssemblyReference.cache
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\obj\Debug\net5.0\MyBlog CQRS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\obj\Debug\net5.0\MyBlog CQRS.AssemblyInfoInputs.cache
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\obj\Debug\net5.0\MyBlog CQRS.AssemblyInfo.cs
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\obj\Debug\net5.0\MyBlog CQRS.csproj.CoreCompileInputs.cache
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\obj\Debug\net5.0\MyBlog CQRS.MvcApplicationPartsAssemblyInfo.cs
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\obj\Debug\net5.0\MyBlog CQRS.MvcApplicationPartsAssemblyInfo.cache
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\obj\Debug\net5.0\staticwebassets\MyBlog CQRS.StaticWebAssets.Manifest.cache
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\obj\Debug\net5.0\staticwebassets\MyBlog CQRS.StaticWebAssets.xml
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\obj\Debug\net5.0\scopedcss\bundle\MyBlog CQRS.styles.css
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\obj\Debug\net5.0\MyBlog CQRS.RazorTargetAssemblyInfo.cache
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\obj\Debug\net5.0\MyBlog CQRS.csproj.CopyComplete
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\obj\Debug\net5.0\MyBlog CQRS.dll
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\obj\Debug\net5.0\ref\MyBlog CQRS.dll
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\obj\Debug\net5.0\MyBlog CQRS.pdb
+D:\Project\CQRS\MyBlog CQRS\MyBlog CQRS\obj\Debug\net5.0\MyBlog CQRS.genruntimeconfig.cache
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\bin\Debug\net5.0\appsettings.Development.json
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\bin\Debug\net5.0\appsettings.json
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\bin\Debug\net5.0\MyBlog CQRS.exe
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\bin\Debug\net5.0\MyBlog CQRS.deps.json
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\bin\Debug\net5.0\MyBlog CQRS.runtimeconfig.json
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\bin\Debug\net5.0\MyBlog CQRS.runtimeconfig.dev.json
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\bin\Debug\net5.0\MyBlog CQRS.dll
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\bin\Debug\net5.0\ref\MyBlog CQRS.dll
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\bin\Debug\net5.0\MyBlog CQRS.pdb
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\bin\Debug\net5.0\MediatR.dll
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\bin\Debug\net5.0\MyBlog.Data.dll
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\bin\Debug\net5.0\MyBlog.MediatR.dll
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\bin\Debug\net5.0\MyBlog.MediatR.pdb
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\bin\Debug\net5.0\MyBlog.Data.pdb
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\obj\Debug\net5.0\MyBlog CQRS.csprojAssemblyReference.cache
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\obj\Debug\net5.0\MyBlog CQRS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\obj\Debug\net5.0\MyBlog CQRS.AssemblyInfoInputs.cache
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\obj\Debug\net5.0\MyBlog CQRS.AssemblyInfo.cs
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\obj\Debug\net5.0\MyBlog CQRS.csproj.CoreCompileInputs.cache
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\obj\Debug\net5.0\MyBlog CQRS.MvcApplicationPartsAssemblyInfo.cs
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\obj\Debug\net5.0\MyBlog CQRS.MvcApplicationPartsAssemblyInfo.cache
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\obj\Debug\net5.0\staticwebassets\MyBlog CQRS.StaticWebAssets.Manifest.cache
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\obj\Debug\net5.0\staticwebassets\MyBlog CQRS.StaticWebAssets.xml
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\obj\Debug\net5.0\scopedcss\bundle\MyBlog CQRS.styles.css
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\obj\Debug\net5.0\MyBlog CQRS.RazorTargetAssemblyInfo.cache
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\obj\Debug\net5.0\MyBlog CQRS.csproj.CopyComplete
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\obj\Debug\net5.0\MyBlog CQRS.dll
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\obj\Debug\net5.0\ref\MyBlog CQRS.dll
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\obj\Debug\net5.0\MyBlog CQRS.pdb
+D:\Project\CQRS\MyBlog CQRS\Server\MyBlog CQRS\obj\Debug\net5.0\MyBlog CQRS.genruntimeconfig.cache
