@@ -1,0 +1,8 @@
+/Server/.vs
+/Server/MyBlog CQRS/bin
+/Server/MyBlog CQRS/obj
+/Server/MyBlog.Data/bin
+/Server/MyBlog.Data/obj
+/Server/MyBlog.Service/bin
+/Server/MyBlog.Service/obj
+/Client/node_modules
